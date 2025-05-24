@@ -98,7 +98,6 @@ The dataset (`spam.csv`) is used for training and testing the classifier. It con
 * streamlit
 * scikit-learn
 * nltk
-* pandas
 * pickle
 
 See `requirements.txt` for full list.
